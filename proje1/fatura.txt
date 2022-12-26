@@ -1,0 +1,16 @@
+<<<<<<<<<<<<<<FATURA>>>>>>>>>>>>>
+ Ad : %s
+ Adres: %s
+ Telefon No:05%d
+ Cesit:%d
+ Adet:%d
+ Odenecek Tutar:%d
+ 
+<<<<<<<<<<<<<<FATURA>>>>>>>>>>>>>
+ Ad : %s
+ Adres: %s
+ Telefon No:05%d
+ Cesit:%d
+ Adet:%d
+ Odenecek Tutar:%d
+ 
